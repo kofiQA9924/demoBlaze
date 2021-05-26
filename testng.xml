@@ -1,0 +1,20 @@
+
+<suite name="demo Blaze Test">
+    <test name="demo Main Test">
+        <classes>
+
+           <class name="com.demoBlaze.TestCases.CartPageTest">
+
+           </class>
+        </classes>
+
+
+    </test>
+    <Listeners>
+        <Listener name="com.demoBlaze.Utilities.Reporting">
+
+        </Listener>
+    </Listeners>
+
+
+</suite>
