@@ -61,5 +61,4 @@ public class BaseClass {
 Additional comments
 Add here.
 First comment
-Second comment
 */
